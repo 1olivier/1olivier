@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1olivier
-- 👀 I’m interested in Web3 ecosystem especially Defi
+- 👀 I’m interested in developping Web3 ecosystem especially Defi and fractionized real estate
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on multiple project share same enthusiasm
+- 💞️ I’m looking to collaborate on multiple project sharing the same enthusiasm
 - 📫 How to reach me CT@1olivier.eth - astraud.o@gmail.com
 
 <!---
